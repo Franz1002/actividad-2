@@ -10,4 +10,9 @@
 - **franzcori** - Colaborador 2
   
 ## Descripción
-Página web interactiva desarrollada con HTML, CSS, JavaScript y Python.
+Este proyecto es mi portafolio personal desarrollado como actividad grupal. 
+Es una página web interactiva construida con Flask (Python) en el backend y HTML, CSS, 
+JavaScript en el frontend. Permite visualizar mi información personal, habilidades técnicas 
+y proyectos realizados, además de contar con un formulario de contacto conectado al servidor. 
+El desarrollo fue dividido en tres partes: encabezado, cuerpo y pie de página, 
+cada una trabajada en su propia rama de GitHub.
